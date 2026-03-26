@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.35.0
+parler-tts
+datasets
+accelerate
+soundfile
+librosa
+scipy
+huggingface_hub
