@@ -59,6 +59,7 @@ Parler-TTS-Hinglish-Accent-Emotions/
 |   |-- Use_Parler_TTS_Hinglish.ipynb              # Inference for Hinglish / Indian accent models
 |   |-- Use_Parler_TTS_Emotions.ipynb              # Inference for emotion-conditioned models
 |
+|-- Presentation.pptx           # PPT Presentation with Output Audio Samples
 |-- Research Paper.pdf          # Full research paper
 |-- requirements.txt            # Python dependencies
 |-- .gitignore
